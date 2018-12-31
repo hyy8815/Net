@@ -19,7 +19,6 @@ ARP请求
 ```
 Source    Destination Protocol Info 
 192.168.0.2 Broadcast  ARP  Who has 192.168.0.3? Tell 192.168.0.2
-
 ```
 
 ARP应答
@@ -27,7 +26,6 @@ ARP应答
 ```
 Source    Destination Protocol Info 
 192.168.0.3 192.168.0.2 ARP 192.168.0.3 is at 00:Ob:db:99:d3:5e 
-
 ```
 
 随着网络的增大，用户响应将非常缓慢，而 LAN 数据流将发生严重拥塞。
@@ -126,7 +124,6 @@ Source    Destination Protocol Info
 --------------------------------------------------------------------------------
 
 
-[a]:
 [1]:https://camo.githubusercontent.com/73c74b09f8bfbf244473d267f3e2c93bca54e685/68747470733a2f2f692e696d6775722e636f6d2f384658364c67312e706e67
 [2]:https://camo.githubusercontent.com/f4c8b04ac43747cc36ee3be476cb4654731bef8e/68747470733a2f2f692e696d6775722e636f6d2f7977464a3350562e706e67
 [3]:https://camo.githubusercontent.com/9f412179d4a27c30a6e7887aa22f5b0559f649de/68747470733a2f2f692e696d6775722e636f6d2f616631396e32492e706e67
